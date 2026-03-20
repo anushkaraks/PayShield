@@ -54,14 +54,6 @@ A delivery partner in Bangalore working approximately 8 hours per day with an av
 
 PayShield follows a **weekly subscription model**, aligned with the earning cycle of gig workers.
 
-### Available Plans
-
-| Plan     | Weekly Coverage | Weekly Premium |
-|----------|----------------|----------------|
-| Basic    | ₹1,500         | ₹50            |
-| Standard | ₹3,000         | ₹100           |
-| Pro      | ₹5,000         | ₹180           |
-
 ### Pricing Factors
 
 Premiums are dynamically calculated based on:
